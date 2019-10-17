@@ -1,0 +1,22 @@
+{
+
+	"name": "prueba PWA",
+	"short_name": "PWA",
+	"description": "Esto es una prueba de una aplicacion PWA",
+	"background_color": "red",
+	"theme_color": "green",
+	"orientation": "portrait",
+	"display": "standalone",
+	"start_url":"./?utm_source=web_app_manifest",
+	"scope":"./",
+	"lang":"es-es",
+	"icons":[
+		{
+		"src":"favicon.png",
+		"sizes":"1024x1024",
+		"type":"image/png"
+		}
+	]
+
+
+}
